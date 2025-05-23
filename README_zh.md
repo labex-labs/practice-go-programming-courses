@@ -12,7 +12,7 @@ Go 语言是一种现代、高效的编程语言。此技能树为学习 Go 语�
 
 |   序号 | 名称                                                               | 难度   | Repo                                                         | 练习                                                           |
 |--------|--------------------------------------------------------------------|--------|--------------------------------------------------------------|----------------------------------------------------------------|
-|      1 | [Golang 快速入门](https://labex.io/zh/courses/quick-start-with-go) | ★★☆    | [🔗 Repo](https://github.com/labex-labs/quick-start-with-go) | [🚀 开始实验](https://labex.io/zh/courses/quick-start-with-go) |
+|      1 | [Golang 快速入门](https://labex.io/zh/courses/quick-start-with-go) | 中级   | [🔗 Repo](https://github.com/labex-labs/quick-start-with-go) | [🚀 开始实验](https://labex.io/zh/courses/quick-start-with-go) |
 
 ## 更多
 
