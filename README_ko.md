@@ -12,7 +12,7 @@ Golang 는 현대적이고 효율적인 프로그래밍 언어입니다. 이 스
 
 |   인덱스 | 이름                                                                 | 난이도   | Repo                                                         | 연습                                                            |
 |----------|----------------------------------------------------------------------|----------|--------------------------------------------------------------|-----------------------------------------------------------------|
-|        1 | [Go 언어 퀵 스타트](https://labex.io/ko/courses/quick-start-with-go) | ★★☆      | [🔗 Repo](https://github.com/labex-labs/quick-start-with-go) | [🚀 실습 시작](https://labex.io/ko/courses/quick-start-with-go) |
+|        1 | [Go 언어 퀵 스타트](https://labex.io/ko/courses/quick-start-with-go) | 중급     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-go) | [🚀 실습 시작](https://labex.io/ko/courses/quick-start-with-go) |
 
 ## 더 보기
 
