@@ -12,7 +12,7 @@ Golang は現代的で効率的なプログラミング言語です。このス�
 
 |   インデックス | 名前                                                                         | 難易度   | Repo                                                         | 練習                                                             |
 |----------------|------------------------------------------------------------------------------|----------|--------------------------------------------------------------|------------------------------------------------------------------|
-|              1 | [Golang のクイックスタート](https://labex.io/ja/courses/quick-start-with-go) | ★★☆      | [🔗 Repo](https://github.com/labex-labs/quick-start-with-go) | [🚀 ラボを開始](https://labex.io/ja/courses/quick-start-with-go) |
+|              1 | [Golang のクイックスタート](https://labex.io/ja/courses/quick-start-with-go) | 中級     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-go) | [🚀 ラボを開始](https://labex.io/ja/courses/quick-start-with-go) |
 
 ## その他
 
