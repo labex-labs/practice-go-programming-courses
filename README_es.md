@@ -12,7 +12,7 @@ Golang es un lenguaje de programación moderno y eficiente. Este Skill Tree ofre
 
 |   Índice | Nombre                                                                      | Dificultad   | Repo                                                         | Práctica                                                                  |
 |----------|-----------------------------------------------------------------------------|--------------|--------------------------------------------------------------|---------------------------------------------------------------------------|
-|        1 | [Inicio rápido con Golang](https://labex.io/es/courses/quick-start-with-go) | ★★☆          | [🔗 Repo](https://github.com/labex-labs/quick-start-with-go) | [🚀 Iniciar Laboratorio](https://labex.io/es/courses/quick-start-with-go) |
+|        1 | [Inicio rápido con Golang](https://labex.io/es/courses/quick-start-with-go) | Intermedio   | [🔗 Repo](https://github.com/labex-labs/quick-start-with-go) | [🚀 Iniciar Laboratorio](https://labex.io/es/courses/quick-start-with-go) |
 
 ## Más
 
