@@ -10,9 +10,9 @@
 
 Golang est un langage de programmation moderne et efficace. Cet arbre de compétences offre une méthode systématique pour apprendre Go. Il est idéal pour les programmeurs intéressés par la programmation concurrente et système, fournissant une feuille de route structurée pour maîtriser la syntaxe de Go, son modèle de concurrence et sa bibliothèque standard. Des cours pratiques sans vidéo et des exercices de codage dans un environnement interactif Golang vous aident à développer des compétences pratiques pour écrire des programmes Golang efficaces et évolutifs.
 
-|   Index | Nom                                                                             | Difficulté   | Repo                                                         | Pratique                                                               |
-|---------|---------------------------------------------------------------------------------|--------------|--------------------------------------------------------------|------------------------------------------------------------------------|
-|       1 | [Démarrage rapide avec Golang](https://labex.io/fr/courses/quick-start-with-go) | ★★☆          | [🔗 Repo](https://github.com/labex-labs/quick-start-with-go) | [🚀 Commencer le Lab](https://labex.io/fr/courses/quick-start-with-go) |
+|   Index | Nom                                                                             | Difficulté    | Repo                                                         | Pratique                                                               |
+|---------|---------------------------------------------------------------------------------|---------------|--------------------------------------------------------------|------------------------------------------------------------------------|
+|       1 | [Démarrage rapide avec Golang](https://labex.io/fr/courses/quick-start-with-go) | Intermédiaire | [🔗 Repo](https://github.com/labex-labs/quick-start-with-go) | [🚀 Commencer le Lab](https://labex.io/fr/courses/quick-start-with-go) |
 
 ## Plus
 
