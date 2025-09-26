@@ -8,11 +8,11 @@
 <img width="128px" src="https://file.labex.io/path/YgASYacMNI6I.png">
 </div>
 
-Golang es un lenguaje de programación moderno y eficiente. Este Skill Tree ofrece una forma sistemática de aprender Go. Es ideal para programadores interesados en la programación concurrente y de sistemas, proporcionando una hoja de ruta estructurada para comprender la sintaxis de Go, su modelo de concurrencia y la biblioteca estándar. Cursos prácticos sin video y ejercicios de codificación en un entorno interactivo de Golang te ayudarán a desarrollar habilidades prácticas para escribir programas eficientes y escalables en Golang.
+Aprende Golang con esta ruta de aprendizaje estructurada, diseñada para principiantes. Estos cursos completos de Golang ofrecen una forma sistemática de dominar el moderno y eficiente lenguaje de programación Go. La hoja de ruta cubre la sintaxis de Go, el modelo de concurrencia y la biblioteca estándar. Desarrolla habilidades prácticas a través de ejercicios interactivos sin video en un entorno de pruebas de Golang interactivo, centrándose en escribir programas eficientes y escalables para programación concurrente y de sistemas.
 
 |   Índice | Nombre                                                                      | Dificultad   | Repo                                                         | Práctica                                                                  |
 |----------|-----------------------------------------------------------------------------|--------------|--------------------------------------------------------------|---------------------------------------------------------------------------|
-|        1 | [Inicio rápido con Golang](https://labex.io/es/courses/quick-start-with-go) | Intermedio   | [🔗 Repo](https://github.com/labex-labs/quick-start-with-go) | [🚀 Iniciar Laboratorio](https://labex.io/es/courses/quick-start-with-go) |
+|        1 | [Inicio rápido con Golang](https://labex.io/es/courses/quick-start-with-go) | Principiante | [🔗 Repo](https://github.com/labex-labs/quick-start-with-go) | [🚀 Iniciar Laboratorio](https://labex.io/es/courses/quick-start-with-go) |
 
 ## Más
 
