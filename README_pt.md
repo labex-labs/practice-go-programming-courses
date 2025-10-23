@@ -10,9 +10,9 @@
 
 Aprenda Golang com este caminho de aprendizagem estruturado, concebido para iniciantes. Estes cursos abrangentes de Golang oferecem uma forma sistemática de dominar a moderna e eficiente linguagem de programação Go. O roteiro abrange a sintaxe do Go, o modelo de concorrência e a biblioteca padrão. Desenvolva habilidades práticas através de exercícios práticos, não em vídeo, num ambiente interativo de Golang, focando-se na escrita de programas eficientes e escaláveis para programação concorrente e de sistemas.
 
-|   Índice | Nome                                                                        | Dificuldade   | Repo                                                         | Prática                                                           |
-|----------|-----------------------------------------------------------------------------|---------------|--------------------------------------------------------------|-------------------------------------------------------------------|
-|        1 | [Início Rápido com Golang](https://labex.io/pt/courses/quick-start-with-go) | Iniciante     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-go) | [🚀 Iniciar Lab](https://labex.io/pt/courses/quick-start-with-go) |
+|   Índice | Nome                                                                       | Dificuldade   | Repo                                                          | Prática                                                            |
+|----------|----------------------------------------------------------------------------|---------------|---------------------------------------------------------------|--------------------------------------------------------------------|
+|        1 | [Golang para Iniciantes](https://labex.io/pt/courses/golang-for-beginners) | Iniciante     | [🔗 Repo](https://github.com/labex-labs/golang-for-beginners) | [🚀 Iniciar Lab](https://labex.io/pt/courses/golang-for-beginners) |
 
 ## Mais
 
