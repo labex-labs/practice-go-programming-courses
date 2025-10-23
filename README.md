@@ -10,9 +10,9 @@
 
 Learn Golang with this structured learning path, designed for beginners. These comprehensive Golang courses offer a systematic way to master the modern and efficient Go programming language. The roadmap covers Go's syntax, concurrency model, and standard library. Develop practical skills through hands-on, non-video exercises in an interactive Golang playground, focusing on writing efficient and scalable programs for concurrent and systems programming.
 
-|   Index | Name                                                                    | Difficulty   | Repo                                                         | Practice                                                     |
-|---------|-------------------------------------------------------------------------|--------------|--------------------------------------------------------------|--------------------------------------------------------------|
-|       1 | [Quick Start with Golang](https://labex.io/courses/quick-start-with-go) | Beginner     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-go) | [🚀 Start Lab](https://labex.io/courses/quick-start-with-go) |
+|   Index | Name                                                                  | Difficulty   | Repo                                                          | Practice                                                      |
+|---------|-----------------------------------------------------------------------|--------------|---------------------------------------------------------------|---------------------------------------------------------------|
+|       1 | [Golang for Beginners](https://labex.io/courses/golang-for-beginners) | Beginner     | [🔗 Repo](https://github.com/labex-labs/golang-for-beginners) | [🚀 Start Lab](https://labex.io/courses/golang-for-beginners) |
 
 ## More
 
