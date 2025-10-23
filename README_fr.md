@@ -10,9 +10,9 @@
 
 Apprenez le Golang grâce à ce parcours d'apprentissage structuré, conçu pour les débutants. Ces cours complets de Golang offrent un moyen systématique de maîtriser le langage de programmation Go, moderne et efficace. La feuille de route couvre la syntaxe de Go, son modèle de concurrence et sa bibliothèque standard. Développez des compétences pratiques grâce à des exercices interactifs non-vidéo dans un environnement de développement Golang interactif, en vous concentrant sur l'écriture de programmes efficaces et évolutifs pour la programmation concurrente et de systèmes.
 
-|   Index | Nom                                                                             | Difficulté   | Repo                                                         | Pratique                                                               |
-|---------|---------------------------------------------------------------------------------|--------------|--------------------------------------------------------------|------------------------------------------------------------------------|
-|       1 | [Démarrage rapide avec Golang](https://labex.io/fr/courses/quick-start-with-go) | Débutant     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-go) | [🚀 Commencer le Lab](https://labex.io/fr/courses/quick-start-with-go) |
+|   Index | Nom                                                                       | Difficulté   | Repo                                                          | Pratique                                                                |
+|---------|---------------------------------------------------------------------------|--------------|---------------------------------------------------------------|-------------------------------------------------------------------------|
+|       1 | [Golang pour Débutants](https://labex.io/fr/courses/golang-for-beginners) | Débutant     | [🔗 Repo](https://github.com/labex-labs/golang-for-beginners) | [🚀 Commencer le Lab](https://labex.io/fr/courses/golang-for-beginners) |
 
 ## Plus
 
