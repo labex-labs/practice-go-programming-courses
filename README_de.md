@@ -10,9 +10,9 @@
 
 Lernen Sie Golang mit diesem strukturierten Lernpfad, der für Anfänger konzipiert ist. Diese umfassenden Golang-Kurse bieten einen systematischen Weg, die moderne und effiziente Programmiersprache Go zu meistern. Die Roadmap deckt die Go-Syntax, das Parallelitätsmodell und die Standardbibliothek ab. Entwickeln Sie praktische Fähigkeiten durch praktische, nicht-video-basierte Übungen in einem interaktiven Golang-Playground, wobei der Fokus auf dem Schreiben effizienter und skalierbarer Programme für die Parallel- und Systemprogrammierung liegt.
 
-|   Index | Name                                                                       | Schwierigkeit   | Repo                                                         | Übung                                                               |
-|---------|----------------------------------------------------------------------------|-----------------|--------------------------------------------------------------|---------------------------------------------------------------------|
-|       1 | [Schnellstart mit Golang](https://labex.io/de/courses/quick-start-with-go) | Anfänger        | [🔗 Repo](https://github.com/labex-labs/quick-start-with-go) | [🚀 Labor Starten](https://labex.io/de/courses/quick-start-with-go) |
+|   Index | Name                                                                    | Schwierigkeit   | Repo                                                          | Übung                                                                |
+|---------|-------------------------------------------------------------------------|-----------------|---------------------------------------------------------------|----------------------------------------------------------------------|
+|       1 | [Golang für Anfänger](https://labex.io/de/courses/golang-for-beginners) | Anfänger        | [🔗 Repo](https://github.com/labex-labs/golang-for-beginners) | [🚀 Labor Starten](https://labex.io/de/courses/golang-for-beginners) |
 
 ## Mehr
 
