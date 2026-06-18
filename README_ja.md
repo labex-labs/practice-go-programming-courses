@@ -5,14 +5,14 @@
 🇨🇳 [简体中文](README_zh.md) 🇯🇵 [日本語](README_ja.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
 
 <div align="center">
-<img width="128px" src="https://file.labex.io/path/YgASYacMNI6I.png">
+<img width="128px" src="https://file.labex.io/upload/u/1991/0xUjcSwLZA3p.png">
 </div>
 
 初心者向けに設計された、体系的な学習パスで Golang を習得しましょう。これらの包括的な Golang コースは、現代的で効率的な Go プログラミング言語を習得するための体系的な方法を提供します。このロードマップは、Go の構文、並行処理モデル、標準ライブラリを網羅しています。インタラクティブな Golang プレイグラウンドで、動画ではない実践的な演習を通じて実用的なスキルを開発し、並行処理およびシステムプログラミング向けの効率的でスケーラブルなプログラムの記述に焦点を当てます。
 
-|   インデックス | 名前                                                                       | 難易度   | Repo                                                          | 練習                                                              |
-|----------------|----------------------------------------------------------------------------|----------|---------------------------------------------------------------|-------------------------------------------------------------------|
-|              1 | [初心者向け Golang 入門](https://labex.io/ja/courses/golang-for-beginners) | 初級     | [🔗 Repo](https://github.com/labex-labs/golang-for-beginners) | [🚀 ラボを開始](https://labex.io/ja/courses/golang-for-beginners) |
+|   インデックス | 名前                                                                  | 難易度   | Repo                                                         | 練習                                                          |
+|----------|---------------------------------------------------------------------|-------|--------------------------------------------------------------|-------------------------------------------------------------|
+|        1 | [初心者向け Golang 入門](https://labex.io/ja/courses/golang-for-beginners) | 初級    | [🔗 Repo](https://github.com/labex-labs/golang-for-beginners) | [🚀 ラボを開始](https://labex.io/ja/courses/golang-for-beginners) |
 
 ## その他
 
